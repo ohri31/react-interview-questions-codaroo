@@ -1,0 +1,2 @@
+**What are React components?**
+In React, everything is a component. A component is a small, reusable piece of code that represents a part of a user interface. Components can be defined as either a class or a function and can include a combination of HTML, CSS, and JavaScript code. These components can also be nested and reused throughout the application, which makes it easy to manage and maintain the application's user interface.

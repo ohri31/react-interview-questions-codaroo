@@ -1,0 +1,2 @@
+**What are states in React?**
+State in React is an object that holds data that can change, and it is managed by a component. It is used to store and update the component's data and can be passed down to child components as props. State can be updated using the **`setState`** method, which triggers a re-render of the component, updating the user interface.

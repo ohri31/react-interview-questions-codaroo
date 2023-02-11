@@ -1,0 +1,2 @@
+**What is the difference between functional and class components in React?**
+The main difference between functional and class components in React is that functional components are simpler and do not have state or lifecycle methods, whereas class components have access to state and lifecycle methods and are more powerful. Additionally, functional components use hooks for state management.

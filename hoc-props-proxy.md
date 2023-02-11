@@ -1,0 +1,2 @@
+**How to create props proxy for HOC component?**
+To create a props proxy for an HOC component, you can use the **`React.forwardRef`** function. This function allows you to pass props through to the wrapped component, preserving the original component's props.

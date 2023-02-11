@@ -1,0 +1,2 @@
+**What is the difference between HTML and React event handling?**
+In HTML, events are handled using event attributes, such as **`onclick`** or **`onchange`**. In React, events are handled using the **`on`** keyword and a callback function. React's event handling system is more powerful and flexible than the traditional HTML event handling system.

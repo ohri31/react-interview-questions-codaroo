@@ -1,0 +1,2 @@
+**How to update state in React class components?**
+To update state in a React class component, you can use the **`setState`** method. This method takes an object or function as an argument, and it will merge the new state with the existing state.

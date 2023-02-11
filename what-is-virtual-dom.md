@@ -1,0 +1,2 @@
+3. **What is Virtual DOM?**
+Virtual DOM is a lightweight in-memory representation of the actual DOM. It is used to improve the performance of updates and changes to the actual DOM by reducing the number of expensive DOM manipulations.

@@ -1,0 +1,2 @@
+**What is React Fiber?**
+React Fiber is a new reconciliation algorithm that was introduced in React 16. It is designed to improve the performance and flexibility of React by breaking down the render process into smaller, asynchronous chunks.

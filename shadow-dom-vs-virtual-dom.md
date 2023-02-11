@@ -1,0 +1,2 @@
+**What is the difference between Shadow DOM and Virtual DOM?**
+Shadow DOM refers to a feature of web browsers that allows developers to create a separate DOM tree, called a shadow tree, that is attached to a specific element and is hidden from the main document. Virtual DOM is a concept used in React to optimize the performance of updates to the user interface, whereas Shadow DOM is a feature of web browsers that allows for scoping of CSS and JavaScript within a specific element.

@@ -1,0 +1,2 @@
+**What are synthetic events in React?**
+Synthetic events in React are a cross-browser compatible way to handle events. They are used to normalize the behavior of different browser event systems and provide a consistent API for handling events.

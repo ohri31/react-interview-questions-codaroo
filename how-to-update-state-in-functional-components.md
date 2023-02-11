@@ -1,0 +1,2 @@
+**How to update state in React functional component?**
+To update state in a React functional component, you can use the **`useState`** hook. This hook returns an array containing the current state and a function to update it.

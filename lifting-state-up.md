@@ -1,0 +1,2 @@
+**What is Lifting State Up in React?**
+Lifting state up in React refers to the process of moving state management from a child component to its parent component. This is done to make the state more easily accessible and manageable for the entire component tree.

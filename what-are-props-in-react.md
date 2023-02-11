@@ -1,0 +1,2 @@
+**What are props in React?**
+Props in React are used to pass data from a parent component to a child component. They are essentially a way to pass data and methods down the component tree. Props are read-only, meaning that they cannot be modified by the child component.

@@ -1,0 +1,3 @@
+**What are Pure components and what is their purpose?**
+
+Pure components are components that only re-render if their props or state have changed. They are optimized for performance, and they can improve the performance of your application by reducing the number of unnecessary re-renders. Pure components are also known as "functional components" or "stateless components" and they are defined by a function.

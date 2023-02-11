@@ -1,0 +1,2 @@
+**What is the meaning of the component-based architecture of React?**
+The component-based architecture of React allows developers to build complex user interfaces by breaking them down into smaller, reusable components. Each component can manage its own state and props, and can be easily reused throughout the application. This structure makes it easy to understand, test, and maintain the application's codebase.

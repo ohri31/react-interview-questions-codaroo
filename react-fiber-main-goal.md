@@ -1,0 +1,2 @@
+**What is the main goal of React Fiber?**
+The main goal of React Fiber is to improve the performance and responsiveness of web applications by breaking down the render process into smaller, asynchronous chunks. This allows React to more effectively utilize the main thread and to better handle complex user interfaces.

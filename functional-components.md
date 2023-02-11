@@ -1,0 +1,2 @@
+**What are functional components in React?**
+Functional components in React are simply JavaScript functions that return a React element. They do not have state or lifecycle methods and are used for simple, stateless components.

@@ -1,0 +1,2 @@
+4. **How Virtual DOM works?**
+Virtual DOM works by comparing the current virtual DOM tree with a new virtual DOM tree, and then applying the minimal set of changes to the actual DOM. This allows React to efficiently update the user interface without causing unnecessary re-renders or layout changes.

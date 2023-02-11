@@ -1,0 +1,2 @@
+**How to Handle Events in React (for both functional and class components)?**
+In React, events can be handled using the **`on`** keyword, followed by the event name and a callback function. For example, to handle a button click event, you would use **`onClick={handleClick}`**. This can be done in both functional and class components.

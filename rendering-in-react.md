@@ -1,0 +1,2 @@
+**How does rendering work in React?**
+React's rendering process begins when a component's state or props change. React will create a new virtual DOM tree, compare it to the previous tree, and then apply only the minimal set of changes necessary to the actual DOM. This process is called reconciliation.

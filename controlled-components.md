@@ -1,0 +1,2 @@
+**What are controlled components?**
+Controlled components are components that are controlled by the state of the parent component. The parent component manages the component's state, and the child component's behavior is determined by the parent component's state.
