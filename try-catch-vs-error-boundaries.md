@@ -1,0 +1,3 @@
+**What is the difference between try catch block and error boundaries?**
+
+A try-catch block is a language-level construct that allows you to handle exceptions that occur during the execution of the code inside the block. Error boundaries are React components that catch JavaScript errors anywhere in their child component tree, log those errors, and display a fallback UI. Error boundaries are used specifically to handle and handle error in a React application, whereas try-catch block are used to handle exceptions in JavaScript.

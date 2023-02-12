@@ -1,0 +1,3 @@
+**What is state mutation and how to prevent it?**
+
+State mutation is when the current state is modified directly, instead of creating a new state object. This can make it difficult to track changes and can lead to unexpected behavior. To prevent state mutation, you should use the spread operator or **`Object.assign()`** to create a new state object and only update the properties that need to be changed.

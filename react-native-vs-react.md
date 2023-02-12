@@ -1,0 +1,3 @@
+**What is the difference between React Native and React?**
+
+React Native is a framework for building mobile applications using React. It provides a way to use React to build apps for iOS and Android. React, on the other hand, is a JavaScript library for building user interfaces. React Native uses a subset of React and provides platform-specific components and APIs to access the device's native features.

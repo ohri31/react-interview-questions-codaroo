@@ -1,0 +1,3 @@
+**What is the difference between async mode and concurrent mode?**
+
+Async mode is an experimental feature that allows React to schedule updates and render components asynchronously. This can improve the performance of an application by reducing the number of updates that need to be processed at the same time. Concurrent mode is a feature that allows React to work in an asynchronous way and it's not yet released but it's planned to be in the future.
